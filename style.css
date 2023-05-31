@@ -1,0 +1,27 @@
+header {
+    background-color: #fefeff;
+    color: rgb(37, 28, 28);
+    }
+.cabecalho-lista-item{ 
+
+        float: left;
+        width: 50%;
+        display: inline-block;
+        float: right;
+    }
+    
+    
+    
+    .cabecalho-imagem{
+        width: 4%;
+        display: inline-block;
+        float: left;
+        background-color: black;
+    }
+
+    .imagem-jogador {
+        width: 20px;
+    }
+    h1{
+        display: inline-block;
+    }
